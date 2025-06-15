@@ -101,7 +101,7 @@ php artisan serve
 ## 🎬 Demo Aplikasi
 
 📽️ Simulasi penggunaan aplikasi dapat ditonton melalui link berikut:  
-🔗 [Lihat Video Demo di Google Drive](https://drive.google.com/drive/u/0/folders/1nzyfFVmdks3SW4vh6Hv7-kDbVLsB7Tay)
+🔗 [Lihat Video Demo di Google Drive](https://drive.google.com/file/d/1cAlcLjwcS1a2TjGvhigmsbXWZpLCLmWu/view?usp=sharing)
 
 > 💡 Karena ukuran video cukup besar, maka hanya ditampilkan dalam bentuk link.
 
